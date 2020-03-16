@@ -5,3 +5,4 @@
 2. RNN history
 3. Attention
 4. optimization history
+    - graph
